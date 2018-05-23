@@ -7,4 +7,9 @@ body{
 
 #rubrik{
     text-align: center;
+    text-decoration: underline chocolate;
+}
+
+#underline{
+    text-decoration: underline violet;
 }
